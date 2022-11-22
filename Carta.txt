@@ -1,4 +1,4 @@
 gi t este es un primera practica usando GIT
 
 Estoy utilizando unos comandos de programa git 
-estoy comiendo en clases
+estoy con hambre de un encebollado
